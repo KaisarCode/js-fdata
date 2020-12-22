@@ -1,6 +1,6 @@
 {
   "name": "kc-fdata",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "[browser] Read file data from input.",
   "main": "fdata.js",
   "repository": {
