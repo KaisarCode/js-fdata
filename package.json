@@ -5,7 +5,7 @@
   "main": "fdata.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/js-fdata.git"
+    "url": "https://github.com/kaisarsnippets/js-fdata.git"
   },
   "keywords": [
     "read",
@@ -17,7 +17,7 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/js-fdata/issues"
+    "url": "https://github.com/kaisarsnippets/js-fdata/issues"
   },
-  "homepage": "https://github.com/KaisarCode/js-fdata"
+  "homepage": "https://github.com/kaisarsnippets/js-fdata"
 }
